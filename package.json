@@ -1,0 +1,17 @@
+{
+  "name": "bankaccount",
+  "version": "1.0.0",
+  "description": "deposit and withdraw you money",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"**/*.sol\""
+  },
+  "author": "Gaurav Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.20.1",
+    "prettier": "^3.2.5"
+  }
+}
